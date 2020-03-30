@@ -19,6 +19,112 @@
       <class name="com.w2a.testcases.BHARSDSProf2"/>
       
     </classes>
-     </test> <!-- Test -->
+     
+    
+   
+  </test> <!-- Test -->
+  
+  <test name="Third Test">
+    <classes>
+      <class name="com.w2a.testcases.BHARSDSProf3"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Fourth Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSProf4"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Fifth Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSProf5"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Sixth Test">
+    <classes>
+     
+      <class name="com.w2a.testcases.BHARSDSProf6"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="Seventh Test">
+    <classes>
+     
+      <class name="com.w2a.testcases.BHARSDSProf7"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Eight Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSProf8"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Ninth Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSProf9"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Tenth Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSProf10"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="Eleventh Test">
+    <classes>
+     
+      <class name="com.w2a.testcases.BHARSDSInst1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="Twelveth Test">
+    <classes>
+     
+      <class name="com.w2a.testcases.BHARSDSInst2"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Thirteenth Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSInst4"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Fourteenth Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSInst5"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Fifteenth Test">
+    <classes>
+      
+      <class name="com.w2a.testcases.BHARSDSInst7"/>
+     
+    </classes>
+  </test> <!-- Test -->
  
 </suite> <!-- Suite -->
